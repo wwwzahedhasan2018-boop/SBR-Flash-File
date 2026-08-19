@@ -1,0 +1,6 @@
+{
+  "name": "SBRFlashFile - Mobile Flash Files & Firmware",
+  "description": "Clean, lightweight, and modern mobile firmware e-commerce directory with instant bKash, Nagad, and Rocket downloads on SBRFlashFile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
